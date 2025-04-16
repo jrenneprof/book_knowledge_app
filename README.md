@@ -2,9 +2,9 @@
 <<<<<<< HEAD
 COT 5930-009: Conversational AI Course Project
 
-Flask Audio App with Sentiment Analysis
+Book Knowledge App (Flask Audio App) 
 
-This application enhances the original Flask Audio App by integrating Google Cloud Natural Language API for sentiment analysis. Users can record and upload audio, which is transcribed into text using Google Speech-to-Text API. Additionally, users can input text to generate speech via Google Text-to-Speech API.
+The Book Knowledge App enables users to upload a PDF book and ask audio questions about its content. Using Google Cloud's Speech-to-Text API, the app transcribes the spoken question into text, which is then passed—along with the PDF content—to a Large Language Model (LLM) for contextual understanding and response generation. The generated answer is then converted to speech using Google Cloud Text-to-Speech API and played back to the user.
 
-In this updated version, the transcribed text undergoes sentiment analysis to determine whether the content is positive, negative, or neutral. The results are saved alongside the corresponding audio and text files for traceability and displayed within the app for real-time feedback. The app is deployed on Google Cloud Run, ensuring scalability and accessibility.
+The application is deployed on Google Cloud Run, providing serverless scalability, high availability, and a public endpoint for ease of access.
 
