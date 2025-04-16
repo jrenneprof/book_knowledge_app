@@ -1,4 +1,4 @@
-# flask-audio-app
+# book-knowledge-app
 <<<<<<< HEAD
 COT 5930-009: Conversational AI Course Project
 
