@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "renne-cot5930-sp25-final-proj",
+  "private_key_id": "64d63ed7e96bd24d0fa031eb92431b3de8d711b8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCgsCXwrujoxiq2\nWICEtE16rf6enkYjUPgzClomjBGHA8L9rjtxXCh1WVvk6BVEc3X68kaxQ7dCamoi\npxUd6+N1CEaBdSRNREYXRMU+1z/tnOUGH9NkKfcMN0T4ZE3vfhc9gYPrKbnNLorQ\n0AOpENaoTP3JqccifAslfZvJ7KXAcHzlNWYYs9/q+kh/9y6AKQD40LtrnHdSJBcg\n0K+4zFXM2aqVqTNw3luN0gctAD27YAXKv0Cfvfb9RGq4VypogBBbjT9DFwxZUzKA\nUkr9TEll+gz+kRNLEsl6yDWrIbpO3z66x/H2EnrTKxv52zm0ie1VN4In9tS+fb9G\nPjqr1t+5AgMBAAECggEANJeys0XsQVOq4yewWL7SpRaRwcS33BNCSSJYQ0mQ6wnW\nJkWCeyXYsB/hLdiwLUlFEi9958LsFjbSKilZhgOQ3NsqiHCYwxlXf4IotNqqt9Ck\nPQ7pl10M2Ni2ID5kK8CvRpg/Xxa3E2rqUFHlAM7cExWv8vM4lBbZZxnnhX2I+qTR\nIuJVWIORx9lzbtVWjGU4d17I6w0MXrJqy+ST7Ihy23ZH31mDc1N1RBkXasCnwkb+\nHpUa1PbXglv6fX7ef/B9kSFAIyv8XOSlWWuPvA/NKjhRZCb7juCZW4OtZATY3FIU\nqgzj6KzYo4Tuu3G8BeZXKNHUDfHTvdTEQcdjbWuJiQKBgQDg2kxLHnOaNEDX1ZcB\nr0sLoWXr/ZJdR71+VxJsNKWLGrtsO5+fJLdaj84eYPIN1j2JZGDVez2L0KynZuv/\nbkDx22e6GE+WyTGx+ON0N3QW0xTe1+7iTxL1PYnt2BslGwmdut5LQRpvy8WElunw\nvrEXpWgUEAGUKFahmL/xV6FNBwKBgQC28nNg4Y8iLdeYhi4tCK005hgNKIITmVJc\nj8uuOSxQGnAfrxFZ5xohlFEoH+hxgEb6RMUWjGKr8Qtsm0dErN+x5ienP2agWbhm\n5HcbneqcMiiRg42MNxMKinj2+2j2VlanzQc/9DzkC7LOWnaaMUcTO3VuhqRi5Bq6\nBCTJEZP9PwKBgQC0JdH4YVZnVrQY+LR6khIDKHV7RHauq5qjjWliLi/vqiQ9S+vQ\nWl9YfFy8tBlagqpc2IJIp+ugiDi8ClbMGG6KF6ocS/wAKAPbvjel1gP5gXZ4L/Lh\neE8NExfd6kWdTfM/XwdYrblblpwSZcLasj06X7hqUoShSkxWPgaSew3towKBgE06\nIYxnCvXhph4DnmByRjOLYeHEFMzTLxpVtSRRjCwwTN6DF279CGHeazfl6EhpXwzs\nlMoE7u4oLatmDPqngzJktp56PAc6eIYusTzeN5hB8DAk+U6UPRx5AcE4tcEvBxuE\niCfuIPofGhbTxzcl0BwFQHgsrB32rnWRpDmgivkfAoGAdIAiVByPl/ByB5dRyJo1\nvFcUpu6wrVIBUWrYymfXmdrm5woQJ8n18RcLOfngLaeMFaS3TM/VPF1VxUzfH9Mz\nVetxpUV/+N2xeksxcvv3bFxjkCnF9b/nOgYYSkgshVTPN13afXJFaBLTkkoMJ/tm\nmO563CZJ8H62752kkxdMFMY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "book-app-sa@renne-cot5930-sp25-final-proj.iam.gserviceaccount.com",
+  "client_id": "110560230523068542553",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/book-app-sa%40renne-cot5930-sp25-final-proj.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

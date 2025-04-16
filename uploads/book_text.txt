@@ -1,0 +1,709 @@
+Linking urban design to sustainability: formal indicators
+of social urban sustainability field research in Perth,
+Western Australia
+Sergio Porta1* and John Luciano Renne2
+1Dipartimento di Progettazione dell’Architettura, Politecnico di Milano, Facolta `di Architettura Civile,
+via Durando 10, 20168 Milano, Italy
+2Planning and Transport Research Centre, Murdoch University, South Street, Murdoch,
+Western Australia 6150, Australia
+The making of a livable urban community is a complex endeavor. For much of the 20th Century planners
+and engineers believed that modern and rational decision-making would create successful cities. Today,
+political leaders across the globe are considering ways to promote sustainable development and the
+concepts of New Urbanism are making their way from the drawing board to the ground. While much has
+changed in the world, the creation of a successful street is as much of an art today as it was in the 1960s.
+Our work seeks to investigate ‘street life’ in cities as a crucial factor towards community success. What are
+the components of the neighborhood and street form that contributes to the richness of street life? To answer
+this question we rely on the literature. The aim of the Formal Indicators of Social Urban Sustainability study
+is to measure the formal components of a neighborhood and street that theorists have stated important in
+promoting sustainability. This paper will describe how this concept helps to bridge urban design and
+sustainability. It will describe the tool and show how this was applied in a comparative assessment of
+Joondalup and Fremantle, two urban centers in the Perth metropolitan area.
+URBAN DESIGN International (2005) 10,51–64. doi:10.1057/palgrave.udi.9000136
+Keywords: sustainable; street; indicators; social; Australia
+Formal indicators concept:
+a bridge between urban design
+and sustainability
+Face-to-face human interactions on the stage of
+public life are extremely relevant for supporting
+livability, safety and control, economic develop-
+ment, participation, and identity (Jacobs, 1961;
+Goffman, 1963, 1967; Lemert and Branaman,
+1997). Many researchers like Oscar Newman,
+William Whyte and Jan Gehl focus their research
+on the observation of people in real-life situations
+to determine how the built environment impacts
+social wellness (Newman, 1973; Gehl, 1987, c.
+1980; Whyte, 1988). The results of their studieshelped guide designers to rethink the impact of
+their plans upon real life. For example, Oscar
+Newman’s studies led to the call for ‘defensible
+space’ to help create a safe environment.
+The recent sustainability agenda has called for the
+integration of economic, environmental, and
+social concerns when planning future develop-
+ment. The problem for urban designers is where
+does the design fit into sustainability? Design can
+promote and/or hinder economic, environmental,
+and social processes. Indicators must be created to
+quantify the formal components of the design in
+order to determine the impact upon the level of
+sustainability. The formal indicators concept helps
+to bridge urban design and sustainability because
+it allows for the design of streets and neighbor-
+hoods to be measured and compared. The concept*Correspondence: Tel: þ39 02 2399 5680, Fax: þ39 02 2399
+5637, E-mail: sergio.porta@polimi.it
+URBAN DESIGN International (2005) 10, 51–64
+r2005 Palgrave Macmillan Ltd. 1357-5317/05 $30.00
+www.palgrave-journals.co.uk/udi
+of sustainability is only useful if we can gauge the
+impact of development upon the economy, the
+environment, and the wellness of the community.
+Does the design of streets and neighborhoods
+encourage more people to walk or drive? What, in
+particular about the design, promotes this activ-
+ity? The Formal Indicators Concept seeks to
+quantitatively measure graphic representations
+of spaces to provide answers to these questions?
+The results of our research allow for both a
+systematic assessment of existing urban settings
+(analysis) and measurement of plans to compare
+different alternatives.
+This concept is useful because it allows planners
+and designers the ability to breakdown the design
+of a street and/or neighborhood to determine the
+positive and negative attributes. This is a tool and
+does not prescribe what is ‘good’ or ‘bad’ design
+but it helps for a local discussion to define ‘good’
+and ‘bad’. This enables a bridge between urban
+design and sustainability because now the mea-
+surements taken can be applied to factors of
+sustainability, framing the debate on the city form,
+at the micro level, within a Sustainable Develop-
+ment Indicator (SDI) environment. Planners will
+benefit because they can evaluate the streets in
+their cities that are most successful and use this
+tool to help invigorate streets that are not by
+understanding where the design fails. While
+social outcomes are not dependant solely upon
+design, it is difficult for a street to be successful if
+it is poorly designed.
+How to use the tool
+The formal indicators concept is based on the
+representation of spaces. The first step in the
+process is to define how to represent the space
+and the second step is to measure the representa-
+tion. The representations used are: plans, bird-eye
+views (ie photographs), and sections. This study
+utilized two types of indicators: urban fabric and
+street indicators. Next, this section will use the
+results of the field research in Western Australia
+in order to define each indicator. The field
+research has been carried out by a team work
+which included Erik Stanton-Hicks, Daniel
+Colgan, and Sarah Bolitho at the ISTP, Institute
+of Sustainability and Technology Policy, Murdoch
+University in Perth, WA; Juliette Louis processed
+all quantitative information.Urban fabric indicators
+Developed by the Western Australia Ministry for
+Planning, urban fabric indicators measure the
+scale of the district or the neighborhood. Under-
+pinning the development of these indicators is the
+assumption that ‘traditionally’ designed town
+centers or suburbs are more sustainable in respect
+to social equity, economic stability and the
+protection/enhancement of the environment,
+compared to ‘conventionally’ designed places.
+Traditional suburbs are defined as ‘A center with
+either a 400 to 800 meter radius that has a range of
+community facilities, a mix of housing, substan-
+tial local employment as is linked to other
+suburban centers by public transport. It has a
+safe, attractive and well-defined public realm of
+interconnected streets fronted by buildings, and a
+well-used public open space y’ (Ministry for
+Planning, 2001).
+Eight urban fabric indicators were used including:
+accessibility (pedsheds), land use diversity, pub-
+lic/private realm, natural surveillance (fronts and
+backs), permeability/street connectivity, employ-
+ment density, number of buildings, and number
+of lots.
+Accessibility (Pedsheds)
+The mapping of a ‘pedshed’ or walkable catch-
+ment enables an assessment to be made about the
+interconnectedness and accessibility of the street
+network for pedestrians. To map the pedshed, a
+400- and/or 800-m circle is drawn around a
+transit stop which assumes a 5- and 10-min walk,
+respectively. The pedshed shows the percent of
+the circle that is truly accessible based on safety,
+sidewalk connectivity, and street layout. As seen
+in Figure 1, Fremantle is substantially more
+walkable than Joondalup.
+Land use diversity
+This indicator measures the variety of land uses
+within the walkable catchment area. A high value
+of diversity may increase consumer choice a
+greater degree for maintaining an urban lifestyle
+without increasing the need for motorized move-
+ments. Traditional developments should have a
+higher level of land use diversity than conven-
+tional developments. Fremantle performs remark-
+ably higher than Joondalup especially for retail
+and the fine-grained diffusion of diverse land-
+uses.
+Linking urban design to sustainability
+S. Porta and J.L. Renne
+52
+URBAN DESIGN International
+Public/private realm
+Public realm mapping identifies where the public
+can or cannot go (where the public cannot readily
+access 24 h a day). Areas in the public domain are
+places that individuals are free to go to at any
+time and may include public parks and open
+space, streets and sidewalks, and public parking
+lots. Mapping these areas gives an indication of
+how legible an area is in terms of coherence of
+urban form; that is, how easy it is for an
+individual to understand where to go and not to
+go in the city.
+Natural surveillance (fronts and backs)
+Natural surveillance provides an increased secur-
+ity for the pedestrian due to the feeling of ‘eyes on
+the streets’ (Jacobs, 1961) and enhanced capability
+of territorialization for inhabitants and users
+(Newman, 1973, 1996). Front and back mapping
+identifies areas of streets that have active building
+frontage, which helps to promote a better natural
+street surveillance (see Figure 2 and Table 1).
+Streets that are poorly designed with respect to
+this indicator contain blank walls, high fences,
+parking lots or the backs of commercial buildings.
+Permeability (street connectivity)
+The type and number of intersections in an area
+effects the movement by users in that given space
+and the user legibility of the street network(Table 2). Four-way intersections offer both
+physical and visual directness of movement to a
+destination. T-junctions give a reduced choice in
+movement and force a change in direction. Cul-
+de-sacs are highly undesirable because they
+disrupt the flow of movement. To achieve a high
+level of permeability a street network should
+contain a high proportion of four-way intersec-
+tions, few cul-de-sacs, and small street block sizes.
+Number of buildings and number of lots
+These final urban fabric indicators help to give an
+indication of the scale of the measurement area.
+Resulting figures show that different street lay-
+outs generate quite different performances as for
+both the number of stand-alone buildings (96 in
+Fremantle, 69 in Joondalup) and the number of
+lots (354 in Fremantle, 87 in Joondalup).
+Street indicators
+These indicators help to isolate the individual
+components that as a whole either add to or
+subtract from street vitality. This dissection will
+help planners to understand the building blocks
+of a successful (or unsuccessful) street. Whether
+the street is planned or built, these indicators can
+be used to improve the vitality of a street.
+This study measured existing streets in Fremantle
+and Joondalup, Western Australia. Measurements
+Figure 1. Urban fabric indicators: pedshed maps of Fremantle (left, 52% coverage) and Joondalup (right, 29%
+coverage).
+Linking urban design to sustainability
+S. Porta and J.L. Renne
+53
+URBAN DESIGN International
+were taken using photographs along the center of
+the street, 25 m apart. A camera was attached to a
+tripod at eye level to ensure that each photograph
+was capturing the same field of view. Once the
+photographs were developed, each photograph
+was analyzed to gather the measurements for theindicators including: sky exposure, fac ¸ade con-
+tinuity, softness, social width, visual complexity,
+number of buildings, sedibility, and detractors.
+Each photograph was scanned and a computer
+program was used to make precise measure-
+ments. The following section will describe each
+indicator and the method for measurement.
+Although this project used photos from existing
+streets, measurements could be taken from ‘vir-
+tual’ streets built in a 3D program. This could help
+planners to correct problems before the project is
+built.
+Sky exposure
+Sky exposure is the amount of sky visible in each
+photograph, where trees are considered as opa-
+que, the same as buildings or other permanent
+man-made objects. This measurement seeks to
+understand the urban environments’ ability to
+encapsulate the pedestrian. The designer can
+relate this information to the person’s sense
+of intimacy through enclosure, their sense of
+Figure 2. Urban fabric indicators: ‘front and back’ maps of Fremantle (left) and Joondalup (right).
+Table 1 Urban fabric indicators: ‘front and back’ measurement
+Fronts on fronts Fronts on backs Backs on backs Total
+m%m%m% m
+Fremantle 2451 36.5 2874 42.8 1386 20.7 6711
+Joondalup 1029 26.0 1512 38.3 1409 35.7 3950
+The table highlights remarkable differences in terms of total amount of streets as well as their natural surveillance potential.
+Table 2 Urban fabric indicators: street connectivity
+measurement
+Intersection
+typeNumber Number
+(km2)Points
+allocatedScore
+4 Ways
+F1 6 3 2 2 3 2
+J 8 16 16
+T Junction
+F2 9 5 8 1 2 9
+J1 1 2 2 1 1
+Cul-de-sac
+F1 2 /C01 /C01
+J3 6 /C03
+Total
+F4 6 9 2 6 0
+J2 2 4 4 2 4
+Linking urban design to sustainability
+S. Porta and J.L. Renne
+54
+URBAN DESIGN International
+livability (the street becomes like a living room),
+the sense of orientation and definition in space,
+and their sense of security.
+To obtain the measurement, polylines were drawn
+in AutoCAD along the perimeter of the sky visible
+in each photograph. Areas of polygons were then
+automatically calculated and this number was
+inversed so that larger areas resulted in lower
+values in the database. Figure 3 represents streets
+with high, medium, and low values for sky
+exposure.
+Fac¸ade continuity
+Fac¸ade continuity is a measure of the continuous-
+ness of the building fac ¸ade on a place that follows
+the line of sight. The continuity of building fronts
+adds to a sense of enclosure and definition of the
+public space. As such, this indicator could be seenin close relationship with the sky exposure
+indicator, as a component of street intimacy. This
+indicator also examines the building fronts as a
+precondition for establishing a good relationship
+between the private space and the public space of
+streets. As such, this indicator describes the
+potential of a street scene to offer a sense of
+diversity. Using AutoCAD, this indicator was
+measured with a line drawn about 3 m above the
+ground for the whole portion of each street
+border. Next, polylines were created to identify
+the parts of the area between the ground and the
+top line that were discontinuous. Figure 4 depicts
+three examples of high, medium, and low levels
+of fac ¸ade continuity.
+Softness (transparency and transitional space)
+Softness measures the subjective elements that
+make a street environment feel safe and welcom-
+Figure 3. Street indicators: samples of sky exposure
+from the higher (top) to the lower (bottom).
+Figure 4. Street indicators: samples of Fac ¸ade con-
+tinuity from the higher (top) to the lower (bottom).
+Linking urban design to sustainability
+S. Porta and J.L. Renne
+55
+URBAN DESIGN International
+ing. This is a compound indicator: its two
+elements are transparency and transitional space.
+Transparency is a measure of the amount of
+window space/area that fronts onto the street,
+allowing viewing into and out of the buildings.
+Transitional space is a measurement of spaces –
+visually accessible front yards, stoops, porticos,
+verandas, shelters, entry setbacks, balcony awn-
+ings, or the like – that provide a ‘soft’ transition
+from the very private space to the public realm.
+Transparency and transitional space were mea-
+sured independently and then averaged to get an
+overall measure for softness. In AutoCAD, poly-
+lines were drawn to define the presence of
+transparencies and transitional spaces and each
+were calculated. The total measurement was
+separately calculated for each of the two elements
+and then the average was taken. Due to the
+different nature of each sub-indicator, the data
+were normalized before calculating the average.
+Figure 5 shows examples of high, medium, and
+low ratings for softness.
+Social width
+Social width refers to the breadth of the street as it
+affects human interaction across the traffic area.
+This is a measurement of the restriction (‘sever-
+ance’ effect) that traffic lanes and multi-functional
+lateral or median strips (parking strips, bike lanes,
+etc.) place on human interaction from one curb of
+a sidewalk to another. It also measures the
+interaction between people and activities taking
+place mainly at the ground floor of fronting
+buildings. Therefore, it is only the areas where
+humans cannot stand and interact that are
+measured. This indicator has been calculated
+based on personal judgment, according to the
+following criteria: Rating 5: Narrow pedestrian
+street or narrow one-way street that is open to
+traffic with or without parallel parking; Rating 4:
+Larger one-way street with parking on one side, a
+two-way street with one side of parking, or two-
+way street with no parking; Rating 3: A two-way
+street with parking on both sides (parallel or
+angled); Rating 2: A two-way street with a large
+median or lateral strip(s) and parking (parallel or
+angled); Rating 1: Two-way streets with four lanes
+(with or without a small median strip) and with
+or without parking (see Figure 6).
+Visual complexity
+Visual complexity is a measure of the amount of
+variety in the streetscape. It seeks to describe thedegree that the street is a rich visual tapestry. The
+particular multi-dimensional nature of a concept
+of ‘visual variety’ is best evaluated in four
+different sub-areas:
+1. color (high contrast, brightness, richness, and
+the number of different colors);
+2. fac ¸ade (attractive fences, attractive height
+articulation and details in roof lines, balconies,
+verandas, and the number of different
+materials);
+3. street furniture (seating, art, attractive lamp
+posts, raised planters, etc.);
+4. street pavement (changes in texture, color,
+material, patterns, and attractive edging).
+Similar to the social width indicator, visual
+complexity was also judged based on personal
+Figure 5. Street indicators: samples of softness from
+the higher (top) to the lower (bottom).
+Linking urban design to sustainability
+S. Porta and J.L. Renne
+56
+URBAN DESIGN International
+judgment. Each photograph was evaluated four
+times – one for each field – with reference to a 1–5
+scale shown in Figure 7. The output was then
+calculated as the average of all four areas.
+Number of buildings
+The number of buildings refers to the apparent
+quantity of buildings visible in the pictures. It is a
+very simple measure of the ‘scale’ of the city, a
+factor which in many ways affects the street life,
+as many buildings often implies many entries,
+many windows, many different people and
+activities. The ratings for this indicator were
+divided into a scale from 1 to 5 shown below.
+Rating 5: 12 or more buildings visible; Rating 4:
+9–11 buildings visible; Rating 3: 4–8 buildingsvisible; Rating 2: 1–3 buildings visible; Rating 1:
+No buildings visible (see Figure 8).
+Sedibility
+William H. Whyte stated that ‘sedibility’ is the
+principle design factor in contributing to the
+social success of urban plazas in New York
+(Whyte, 1988). Sedibility is the measure of the
+number of seating opportunities visible in each
+photograph (ie benches, low walls, cafe ´chairs,
+etc.). To measure this, a distinction was made
+between primary and secondary seating. Primary
+seating constitutes objects made for people to sit
+on which include benches and chairs (moveable
+chairs were given a slightly higher rating).
+Secondary seating opportunities are objects not
+specifically made for the purpose of seating
+Figure 6. Street indicators: samples of social width –
+from the higher (top, rating 5) to the lower (bottom,
+rating 1).
+Figure 7. Street indicators: samples of visual complex-
+ity – from the higher (top) to the lower (bottom).
+Linking urban design to sustainability
+S. Porta and J.L. Renne
+57
+URBAN DESIGN International
+but on which people actually are very likely to
+sit on. This includes walls, stoops, fountain
+borders, ledges, planters, etc. Assessing the
+photographs, a scale from 1 to 5 was used, giving
+more weight to primary seating as shown below
+(see Figure 9). Rating 5: Continuous cafe ´strip,
+alfresco dining; Rating 4: Medium number of
+primary seating with or without other secondary
+seating; Rating 3: A small amount of primary
+seating or a couple of benches, or a lot of
+secondary seating; Rating 2: Some secondary
+seating with our without one bench; Rating 1:
+No seating.
+Detractors
+Detractors refers to any element that can be
+viewed as having a negative effect on thestreetscape potential to provide a good scene for
+the flourishing of urban social life. These have
+been broken down into three sub-indicators
+including: blank walls, aggressive automobile
+facilities, and rejecting objects. Blank walls are
+walls without windows, doors or other openings.
+Using AutoCAD, polylines and circles measured
+these elements from each photograph. Aggressive
+automobile facilities include any feature added to
+the streetscape that augments the role of cars or
+caters to motorists, in particular: traffic signs or
+lights, gas stations, parking lots, and billboards.
+Last, rejecting objects include any permanent or
+semi-permanent feature that is part of the
+streetscape and detracts from the sense of
+security, hospitality, and friendliness of the street.
+Examples include: poor-quality graffiti, large
+dumpsters, and low-quality light poles. Each
+Figure 8. Street indicators: samples of number of
+buildings – from the higher (top, rating 5) to the lower
+(bottom, rating 1).
+Figure 9. Street indicators: samples of sedibility – from
+the higher (top, rating 5) to the lower (bottom, rating 1).
+Linking urban design to sustainability
+S. Porta and J.L. Renne
+58
+URBAN DESIGN International
+sub-indicator was normalized before calculating
+the average (see Figure 10).
+Results of the field research in Western
+Australia: Fremantle and Joondalup
+Urban fabric and street indicators were processed
+in order to produce maps and a database of the
+two cases. Using AutoCAD and ArcVIEW, the
+database was linked to polygons on maps of
+Joondalup and Fremantle. The resulting graphics
+were used for developing the first of the four
+layouts of the study: the photo-by-photo maps of
+each street indicator (Figure 11). These layouts
+allow for an in-depth, indicator-by-indicator
+comparison of the two cases. The study of everysingle street may also take advantage of the
+detailed description provided with this layout.
+In the photo-by-photo maps – the first layout – the
+legend was built on an average-and-standard-
+deviation basis: blues show value below the
+average, reds above the average.
+The same was then done for the second layout:
+the street-by-street table . This analysis (see Fig-
+ure 12) allows for a quick evaluation of the
+performance of each street, on average, for each
+indicator: this helps to highlight strengths and
+weaknesses of each street or groups of streets
+and leads to a better understanding of general
+trends.
+Next, the third layout was a set of pie-charts
+(Figure 13) based on data of each indicator with
+reference to the whole case. This allows for a very
+effective understanding of the overall character of
+the two cases as well as of the main differences
+between them.
+Finally, a cluster analysis was used on the photo-
+by-photo database (Figure 14) aimed at grouping
+together data, which resulted similar when all the
+eight street indicators are simultaneously consid-
+ered. That led to the fourth layout: a sort of zoning
+map that eases the linking of highlighted weak-
+nesses and strengths to specific areas of the
+two urban fabrics. This seems to be crucial for
+the aim of targeting the right policies to the right
+places.
+Conclusion: the relevance of the formal
+indicators concept and tools
+A large gap was detected between Fremantle and
+Joondalup. Despite the valuable strategies and
+guidelines used to design the new town of
+Joondalup, the traditional, late-Victorian urban
+fabric of Fremantle fairs superior. In particular,
+the streets of Joondalup came out to be simply too
+large to work well in social terms; moreover, a
+sort of ‘withdrawal of the city from the city’s
+scene’ was recognized in Joondalup, where very
+often the borders of the streets do not show the
+presence of buildings, lined trees, shops or the
+clues of any human activity.
+The indicators allowed for a number of detailed
+observations pointing at several specific spots
+Figure 10. Street indicators: samples of detractors –
+from the higher (top) to the lower (bottom).
+Linking urban design to sustainability
+S. Porta and J.L. Renne
+59
+URBAN DESIGN International
+Figure 11. Street indicators, samples of Layout 1 ‘Photo-by-photo map’. (a) Sky exposure in Fremantle (left) and
+Joondalup (right). (b) Fac ¸ade continuity in Fremantle (left) and Joondalup (right). (c) Softness in Fremantle (left) and
+Joondalup (right). (d) Social width in Fremantle (left) and Joondalup (right).
+Linking urban design to sustainability
+S. Porta and J.L. Renne
+60
+URBAN DESIGN International
+within the two cities, and issues related to local
+conditions were discussed to improve upon the
+urban form. In particular, large institutional
+locations in Joondalup seem to be designed in a
+manner that works against, rather than for the
+city, while Fremantle still needs to develop a
+strategy for urban parking lots and multistory
+parking. In both cases, a specific policy for
+diffusing sedibility resulted to be strongly
+needed, even if Fremantle does show the presence
+of some very sedible spots like the ‘cappuccino
+strip’.
+Results of the four layouts helped to draw both
+general and specific conclusions. The generallessons, which were summarized as the 10 ‘rules
+of thumb’ for designing sustainable streets of the
+future, were drawn as follows (this applies to
+mostly to downtown areas or commercial centers,
+but may have applicability in other parts of the
+city as well):
+1. Design streets as narrow as possible (to
+accommodate the pedestrian over the auto-
+mobile).
+2. Do not isolate buildings (especially institu-
+tional buildings) in lots; buildings should line
+the streets.
+3. Do not allow setbacks: building fronts should
+be as continuous as possible along the street.
+Figure 12. Street indicators, samples of Layout 2 ‘Street-by-street table’: groups of streets (top) and the case of
+Fremantle (bottom).
+Figure 13. Street indicators, samples of Layout 3 ‘Pie charts’: Fac ¸ade continuity in Fremantle (left) and Joondalup
+(right).
+Linking urban design to sustainability
+S. Porta and J.L. Renne
+61
+URBAN DESIGN International
+Figure 14. Street indicators, samples of Layout 4 ‘Cluster analysis’: zoning maps of Fremantle (top) and Joondalup
+(bottom).
+Linking urban design to sustainability
+S. Porta and J.L. Renne
+62
+URBAN DESIGN International
+4. Make many small buildings instead of few
+large ones.
+5. Design retail at the ground floor wherever
+possible.
+6. Avoid parking lots: on-street parking is much
+better; even multistory parking is better,
+provided that retail is located at the ground
+floor facing the street and the fac ¸ade of the
+parking deck is disguised to blend into the
+architectural environment.
+7. Design porticos, arcades, low fencing, stoops,
+shelters and the like: everything that can
+provide a soft transition from the street to
+the building is crucial.
+8. Avoid blank walls. Avoid large billboards,
+traffic lights, large on-street trash dumpsters,
+high light poles, but especially: avoid blank
+walls!
+9. Put trees on wide streets: trees are very often
+the only thing we can do for making existent
+streets more lively and friendly, but they can
+make a big difference.
+10. Places for sitting are all-important:
+provide sedible arrangements wherever
+possible.
+The formal indicators analysis developed for
+the comparison of Fremantle and Joondalup
+proved to be highly descriptive of the urban
+environment at the microlevel of the neighbor-
+hood (commercial center) and the street. It
+allowed for an in-depth understanding of
+some formal characteristics of the urban fabric,
+which in many ways can be related to the
+social sustainability of places. Moreover, it high-
+lighted relevant differences in the physical
+settings of the two cases, which are generally
+under-represented in the political agenda as well
+as in the planning debate and in the social
+awareness of the local community. Policies
+can be undertaken to better the social value of
+urban places using strategies of urban design.
+A renovated attention needs to be paid to the
+contextualization of large institutional buildings,
+the strengths and interconnectivity of street
+layout, the visual communication between
+street fronts, the sedibility of public space,
+the use of a tree canopy to reach a better level
+of intimacy on (sub) urban streets, the negative
+impact of parking lots and blank walls and
+the like. Moreover, those policies can be tracked
+in time to keep the progressing of their imple-
+mentation under the social control of local
+communities. SDIs can be the first step inbridging the gap between urban design and
+truly achieving sustainability with quantitative
+measures.
+References
+Gehl, J. (1987) Life between Buildings: Using Public Space .
+New York: Van Nostrand Reinhold.
+Goffman, E. (1963) Behavior in Public Places; Notes on the
+Social Organization of Gathering . New York: Free
+Press of Glencoe.
+Goffman, E. (1967) Interaction Ritual; Essays in Face-to-
+face Behavior . Chicago: Aldine Publishing Company.
+Jacobs, J. (1961) The Death and Life of Great American
+Cities . New York: Random House.
+Lemert, C. and Branaman, A. (eds.) (1997) The Goffman
+Reader . Cambridge, MA: Blackwell.
+Ministry for Planning. (2001) Sustainable Urban Design:
+Practical Fieldwork Project. Booklet presented at the
+‘Sustainable Urban Design Course’ 2001, ISTP,
+Murdoch University, Perth, WA.
+Newman, O. (1973) Defensible Space: Crime Prevention
+through Urban Design . New York: Collier
+Books.
+Newman, O. (1996) Creating Defensible Space. US
+Department of Housing and Urban Development,
+Office of Policy Development and Research,
+Washington, DC, USA.
+Whyte, W.H. (1988) City: Rediscovering the Center . New
+York: Doubleday.
+Further Reading
+Bosselmann, P. (1998) Representation of Places: Reality and
+Realism in City Design . Berkeley, CA: University of
+California Press.
+Cooper-Marcus, C. and Sarkissian, W. (1986) Housing as
+if People Mattered: Site Design Guidelines for Medium-
+Density Family Housing . Berkeley, CA: University of
+California Press.
+Gehl, J. (1977) Interface between Public and Private
+Territories in Residential Areas, Department of Archi-
+tecture and Building . Melbourne: Melbourne Uni-
+versity.
+Gehl, J. (1994) Public Spaces and Public Life in Perth .
+Perth: Report for the Government of Western
+Australia and the City of Perth.
+Gehl, J. and Gemzøe, L. (1996) Public Spaces Public Life .
+Copenhagen: Arkitektens Forlag.
+Gehl, J. and Gemzøe, L. (2000) New City Spaces .
+Copenhagen: The Danish Architectural
+Press.
+Jacobs, A. (1993) Great streets . Boston, MA: MIT Press.
+Jacobs, A. and Bosselmann, P. IDS 241: best students
+works at Jacobs and Bosselmann’s IDS 241 course,
+UCB Berkeley: Patel B., Chiao C.S., Jung Chin I.
+1985. Memorable Street. December 1985; Hilken H.,
+Nagle K., Rosenberg M., Sadik R. 1987. Memorable
+Residential Streets. Fall 1987; Bergdoll J., Williams
+R.W. 1988. A study of Perceived Density. Fall 1988;
+Linking urban design to sustainability
+S. Porta and J.L. Renne
+63
+URBAN DESIGN International
+Gambetti F., Wolfe M., Broudehoux A.M. 1996.
+Elements of Street Memorability: a Study of Grant
+and Stockton Streets in san Francisco’s Chinatown.
+Fall 1996.
+Southworth, M. and Ben-Joseph, E. (1997) Streets and the
+Shaping of Towns and Cities . New York: McGraw-
+Hill.Ramati, R. (1981) How to Save your own Street . New York:
+Doubleday.
+Vernez-Moudon, A. (ed.) (1987) Public Streets for Public
+Use. New York : Van Nostrand Reinhold.
+Whyte, W.H. (1980) The Social Life of Small Urban
+Spaces . Washington, DC: The Conservation
+Foundation.
+Linking urban design to sustainability
+S. Porta and J.L. Renne
+64
+URBAN DESIGN International
